@@ -1,0 +1,5 @@
+# SAMPLE CRONTAB
+# Run the following echo every 3 minutes
+*/3 * * * * echo "Hello, World!"
+
+# Blank line -- end of crontab
